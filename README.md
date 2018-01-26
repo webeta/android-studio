@@ -1,5 +1,7 @@
 # Android Studio 使用艺术
 
+> 本开源书 forked from [Android Studio 使用艺术](https://github.com/quanke/android-studio)，作者为 [quanke](https://github.com/quanke)，欢迎大家 star 原作者的 [repo](https://github.com/quanke/android-studio)，以便获得最新更新，谢谢！
+
 本书不一定要按照从头开始读到尾，选择自己需要的部分阅读，类似于我们Java的API文档，但是API文档更加容易理解，会有很多的使用技巧，使用经验在里面。
 
 每一个操作都会带实例演示，让读者看到我的操作步骤。
